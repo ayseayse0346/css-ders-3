@@ -1,0 +1,42 @@
+
+
+
+/* li{
+    background-color: burlywood; id vermezsek bütün lilere bunu uygular.
+} */
+
+li{
+    background-color: burlywood; .
+} 
+
+#list{
+   border: 3px solid red;
+   list-style-type: none;
+}
+
+h1{
+    color: chartreuse;
+    text-align: center;
+}
+
+#li:hover{
+    font-weight: 900;
+    cursor: pointer;
+}
+
+span{
+    color: blueviolet;
+}
+
+span:hover{
+    color: blue;
+    font-size: large;
+    cursor: copy;
+}
+
+.abc{
+    font-size: 40px;
+    background-color: cadetblue;
+}
+
+/* id lerin clasalara göre önceliği vardır. */
